@@ -1,3 +1,0 @@
-**Voornaam**: Jan-Willem
-**Achternaam**: Vogel
-**E-mailadres**: 99051050@mydavinci.nl
